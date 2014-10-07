@@ -1,0 +1,12 @@
+li.links{
+    display: inline;
+    List-style-type: none;
+    padding-right: 25px;
+    color: #8F8F7D;
+    font-size: 12px;
+    font-family: "Arial";
+}
+
+body{
+    backgound-color: #D8D8A5;
+}
